@@ -1,0 +1,3 @@
+0 blank
+1 illegal
+2 legal
